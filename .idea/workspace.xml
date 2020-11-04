@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21facee1-5add-4838-aefa-4778596c3b02" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,11 +41,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            <state relative-caret-position="60">
+              <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -76,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="312">
+              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,10 +127,10 @@
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
       </list>
     </option>
   </component>
@@ -139,8 +144,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="883" />
-    <option name="y" value="160" />
+    <option name="x" value="1119" />
+    <option name="y" value="129" />
     <option name="width" value="1400" />
     <option name="height" value="960" />
   </component>
@@ -159,6 +164,24 @@
             <path>
               <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
               <item name="Project110" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project110" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project110" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs110" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project110" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project110" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cs110" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +349,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604513178546</updated>
       <workItem from="1604513180761" duration="1483000" />
-      <workItem from="1604515187775" duration="708000" />
+      <workItem from="1604515187775" duration="988000" />
     </task>
     <servers />
   </component>
@@ -339,7 +362,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2191000" />
+    <option name="totallyTimeSpent" value="2471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="883" y="160" width="1400" height="960" extended-state="0" />
@@ -475,16 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -501,9 +514,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -520,8 +531,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
